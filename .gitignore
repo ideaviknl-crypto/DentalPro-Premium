@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+npm-debug.log*
+.DS_Store
+.env.local
+.env
+
+# Laravel backend
+/backend/vendor
+/backend/.env
+/backend/.env.*
+/backend/storage/*.key
+/backend/storage/logs/*.log
+/backend/storage/framework/cache/*
+/backend/storage/framework/sessions/*
+/backend/storage/framework/views/*
